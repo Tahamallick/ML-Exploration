@@ -8,6 +8,6 @@ This repository serves as a platform for hands-on machine learning practice. Her
 
 ## Projects
 
-Explore the projects in this repository to apply machine learning algorithms to real-world datasets. Each project comes with a detailed description, dataset, and implementation in Python using popular libraries such as scikit-learn, TensorFlow, or PyTorch. Feel free to fork the repository, experiment with the projects, and contribute your own implementations.
+Explore the projects in this repository to apply machine learning algorithms to real-world datasets. Each project comes with a detailed description, dataset, and implementation in Python using popular libraries such as scikit-learn, TensorFlow, or PyTorch. Feel free to fork the repository, experiment with the project.
 
 
