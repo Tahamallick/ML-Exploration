@@ -41,7 +41,7 @@ model_params = {
         'params' : {
             'C': [10,20,30,40,50],
             'kernel': ['rbf','linear', 'poly', 'sigmoid'],
-            'degree': [2, 3, 4, 5]  # only used when kernel is 'poly'
+            'degree': [2, 3, 4, 5]  
         }  
     },
     'random_forest': {
